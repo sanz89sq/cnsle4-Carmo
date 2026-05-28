@@ -2,7 +2,7 @@
   "AdsController": {
     "adNetwork": "admob",
     "ads": "enable",
-    "testMode": false,
+    "testMode": true,
     "inapp": true,
 
     "admob": {
@@ -24,7 +24,7 @@
         "unit_id": "ca-app-pub-3940256099942544/5224354917",
         "cooldown_seconds": 30,
         "max_per_session": 10,
-        "first_ad_delay_seconds": 30
+        "first_ad_delay_seconds": 0
       }
     },
 
