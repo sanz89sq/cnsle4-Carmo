@@ -19,8 +19,12 @@
         "min_interval_seconds": 60,
         "expiry_hours": 4
      },
-      "rewarded": {
-        "unit_id": "ca-app-pub-XXX/WWW"
+    "rewarded": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "cooldown_seconds": 30,
+      "max_per_session": 10,
+      "first_ad_delay_seconds": 30
       }
     },
 
