@@ -11,7 +11,7 @@
         "unit_id": "ca-app-pub-3940256099942544/1033173712",
         "min_interval_seconds": 25,
         "max_per_session": 10,
-        "first_ad_delay_seconds": 30
+        "first_ad_delay_seconds": 0
       },
       "app_open": {
         "enabled": true,
